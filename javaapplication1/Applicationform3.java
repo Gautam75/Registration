@@ -2,7 +2,6 @@
 package applicationform3;
 import java.sql.*;
 import java.util.regex.Matcher;
-import java.util.regex.Pattern;
 import java.applet.*;
 import java.awt.*;
 import java.awt.event.*;
